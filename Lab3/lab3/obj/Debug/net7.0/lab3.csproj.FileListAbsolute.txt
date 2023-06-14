@@ -1,0 +1,15 @@
+D:\Универ\3 year\6 сем\КМЗИ\lab3\lab3\bin\Debug\net7.0\lab3.exe
+D:\Универ\3 year\6 сем\КМЗИ\lab3\lab3\bin\Debug\net7.0\lab3.deps.json
+D:\Универ\3 year\6 сем\КМЗИ\lab3\lab3\bin\Debug\net7.0\lab3.runtimeconfig.json
+D:\Универ\3 year\6 сем\КМЗИ\lab3\lab3\bin\Debug\net7.0\lab3.dll
+D:\Универ\3 year\6 сем\КМЗИ\lab3\lab3\bin\Debug\net7.0\lab3.pdb
+D:\Универ\3 year\6 сем\КМЗИ\lab3\lab3\obj\Debug\net7.0\lab3.csproj.AssemblyReference.cache
+D:\Универ\3 year\6 сем\КМЗИ\lab3\lab3\obj\Debug\net7.0\lab3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Универ\3 year\6 сем\КМЗИ\lab3\lab3\obj\Debug\net7.0\lab3.AssemblyInfoInputs.cache
+D:\Универ\3 year\6 сем\КМЗИ\lab3\lab3\obj\Debug\net7.0\lab3.AssemblyInfo.cs
+D:\Универ\3 year\6 сем\КМЗИ\lab3\lab3\obj\Debug\net7.0\lab3.csproj.CoreCompileInputs.cache
+D:\Универ\3 year\6 сем\КМЗИ\lab3\lab3\obj\Debug\net7.0\lab3.dll
+D:\Универ\3 year\6 сем\КМЗИ\lab3\lab3\obj\Debug\net7.0\refint\lab3.dll
+D:\Универ\3 year\6 сем\КМЗИ\lab3\lab3\obj\Debug\net7.0\lab3.pdb
+D:\Универ\3 year\6 сем\КМЗИ\lab3\lab3\obj\Debug\net7.0\lab3.genruntimeconfig.cache
+D:\Универ\3 year\6 сем\КМЗИ\lab3\lab3\obj\Debug\net7.0\ref\lab3.dll

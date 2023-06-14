@@ -1,0 +1,8 @@
+D:\Документы\Институт БГТУ\3к2с\Крипта\Lab5\Lab5\bin\Debug\Lab5.exe.config
+D:\Документы\Институт БГТУ\3к2с\Крипта\Lab5\Lab5\bin\Debug\Lab5.exe
+D:\Документы\Институт БГТУ\3к2с\Крипта\Lab5\Lab5\bin\Debug\Lab5.pdb
+D:\Документы\Институт БГТУ\3к2с\Крипта\Lab5\Lab5\obj\Debug\Lab5.csproj.AssemblyReference.cache
+D:\Документы\Институт БГТУ\3к2с\Крипта\Lab5\Lab5\obj\Debug\Lab5.csproj.SuggestedBindingRedirects.cache
+D:\Документы\Институт БГТУ\3к2с\Крипта\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+D:\Документы\Институт БГТУ\3к2с\Крипта\Lab5\Lab5\obj\Debug\Lab5.exe
+D:\Документы\Институт БГТУ\3к2с\Крипта\Lab5\Lab5\obj\Debug\Lab5.pdb

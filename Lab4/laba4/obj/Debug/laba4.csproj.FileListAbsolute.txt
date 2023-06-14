@@ -1,0 +1,8 @@
+D:\Документы\Институт БГТУ\3к2с\Крипта\laba4\laba4\bin\Debug\laba4.exe.config
+D:\Документы\Институт БГТУ\3к2с\Крипта\laba4\laba4\bin\Debug\laba4.exe
+D:\Документы\Институт БГТУ\3к2с\Крипта\laba4\laba4\bin\Debug\laba4.pdb
+D:\Документы\Институт БГТУ\3к2с\Крипта\laba4\laba4\obj\Debug\laba4.csproj.AssemblyReference.cache
+D:\Документы\Институт БГТУ\3к2с\Крипта\laba4\laba4\obj\Debug\laba4.csproj.SuggestedBindingRedirects.cache
+D:\Документы\Институт БГТУ\3к2с\Крипта\laba4\laba4\obj\Debug\laba4.csproj.CoreCompileInputs.cache
+D:\Документы\Институт БГТУ\3к2с\Крипта\laba4\laba4\obj\Debug\laba4.exe
+D:\Документы\Институт БГТУ\3к2с\Крипта\laba4\laba4\obj\Debug\laba4.pdb

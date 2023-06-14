@@ -1,0 +1,14 @@
+D:\Универ\3 year\6 сем\КМЗИ\lab2\lab2\bin\Debug\lab2.exe
+D:\Универ\3 year\6 сем\КМЗИ\lab2\lab2\bin\Debug\lab2.pdb
+D:\Универ\3 year\6 сем\КМЗИ\lab2\lab2\obj\Debug\lab2.csproj.AssemblyReference.cache
+D:\Универ\3 year\6 сем\КМЗИ\lab2\lab2\obj\Debug\lab2.csproj.SuggestedBindingRedirects.cache
+D:\Универ\3 year\6 сем\КМЗИ\lab2\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+D:\Универ\3 year\6 сем\КМЗИ\lab2\lab2\obj\Debug\lab2.exe
+D:\Универ\3 year\6 сем\КМЗИ\lab2\lab2\obj\Debug\lab2.pdb
+D:\Документы\Институт БГТУ\3к2с\Крипта\lab2\lab2\bin\Debug\lab2.exe
+D:\Документы\Институт БГТУ\3к2с\Крипта\lab2\lab2\bin\Debug\lab2.pdb
+D:\Документы\Институт БГТУ\3к2с\Крипта\lab2\lab2\obj\Debug\lab2.csproj.AssemblyReference.cache
+D:\Документы\Институт БГТУ\3к2с\Крипта\lab2\lab2\obj\Debug\lab2.csproj.SuggestedBindingRedirects.cache
+D:\Документы\Институт БГТУ\3к2с\Крипта\lab2\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+D:\Документы\Институт БГТУ\3к2с\Крипта\lab2\lab2\obj\Debug\lab2.exe
+D:\Документы\Институт БГТУ\3к2с\Крипта\lab2\lab2\obj\Debug\lab2.pdb

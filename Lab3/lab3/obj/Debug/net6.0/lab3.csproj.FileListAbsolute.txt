@@ -1,0 +1,15 @@
+D:\Документы\Институт БГТУ\3к2с\Крипта\lab3\lab3\bin\Debug\net6.0\lab3.exe
+D:\Документы\Институт БГТУ\3к2с\Крипта\lab3\lab3\bin\Debug\net6.0\lab3.deps.json
+D:\Документы\Институт БГТУ\3к2с\Крипта\lab3\lab3\bin\Debug\net6.0\lab3.runtimeconfig.json
+D:\Документы\Институт БГТУ\3к2с\Крипта\lab3\lab3\bin\Debug\net6.0\lab3.dll
+D:\Документы\Институт БГТУ\3к2с\Крипта\lab3\lab3\bin\Debug\net6.0\lab3.pdb
+D:\Документы\Институт БГТУ\3к2с\Крипта\lab3\lab3\obj\Debug\net6.0\lab3.csproj.AssemblyReference.cache
+D:\Документы\Институт БГТУ\3к2с\Крипта\lab3\lab3\obj\Debug\net6.0\lab3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документы\Институт БГТУ\3к2с\Крипта\lab3\lab3\obj\Debug\net6.0\lab3.AssemblyInfoInputs.cache
+D:\Документы\Институт БГТУ\3к2с\Крипта\lab3\lab3\obj\Debug\net6.0\lab3.AssemblyInfo.cs
+D:\Документы\Институт БГТУ\3к2с\Крипта\lab3\lab3\obj\Debug\net6.0\lab3.csproj.CoreCompileInputs.cache
+D:\Документы\Институт БГТУ\3к2с\Крипта\lab3\lab3\obj\Debug\net6.0\lab3.dll
+D:\Документы\Институт БГТУ\3к2с\Крипта\lab3\lab3\obj\Debug\net6.0\refint\lab3.dll
+D:\Документы\Институт БГТУ\3к2с\Крипта\lab3\lab3\obj\Debug\net6.0\lab3.pdb
+D:\Документы\Институт БГТУ\3к2с\Крипта\lab3\lab3\obj\Debug\net6.0\lab3.genruntimeconfig.cache
+D:\Документы\Институт БГТУ\3к2с\Крипта\lab3\lab3\obj\Debug\net6.0\ref\lab3.dll
